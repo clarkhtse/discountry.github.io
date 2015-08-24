@@ -9,6 +9,8 @@ tags: ['Mac','Hackintosh']
 
 ### Resources you may need
 
+krfkfjfjk
+
 * [威锋](http://bbs.feng.com/thread-htm-fid-102.html)
 * [PCBeta](http://bbs.pcbeta.com/forum.php?gid=86)
 * [tonymacx86](http://www.tonymacx86.com)
